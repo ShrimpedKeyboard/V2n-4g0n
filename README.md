@@ -5,8 +5,7 @@ i need to think of a better name
 
 the v2n uses a stacked acrylic case with the option for gasket and bottom mount
 
-![alt text](https://github.com/ShrimpedKeyboard/Q4Z1G0N/blob/main/Pics/Case-2.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Q4Z1G0N/blob/main/Pics/Case-3.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/V2n-4g0n/blob/main/Pics/Case%201.png?raw=true)
 
 # PCB
 
